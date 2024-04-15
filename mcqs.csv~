@@ -1,0 +1,6 @@
+Question,Choice1,Choice2,Choice3,Choice4,Answer
+1. What is the primary goal of machine learning,Data Storage,Code Optimization,Pattern Recognition,User Interface Design,3
+2. Which of the following is a supervised learning algorithm,K-Means,Decision Trees,K-Nearest Neighbors,Apriori,2
+3. What is the purpose of the activation function in a neural network?,To compute gradients,To introduce non-linearity,To normalize input data,To calculate loss,2
+4. Which algorithm is commonly used for classification tasks in machine learning?,Linear Regression,K-Means,Support Vector Machines (SVM),Principal Component Analysis (PCA),3
+"5. What is the purpose of the term ""regularization"" in machine learning?",To reduce model complexity,To increase training time,To overfit the training data,To perform feature engineering,1
